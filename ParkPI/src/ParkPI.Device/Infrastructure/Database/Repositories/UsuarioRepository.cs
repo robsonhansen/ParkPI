@@ -1,10 +1,10 @@
-using System.ComponentModel;
+using LiteDB;
 
-public class UsuarioReportory : IUsuarioRepository
+public class UsuarioRepository : IUsuarioRepository
 {
-    private readonly LiteDataBase _dataBase;
+    private readonly LiteDatabase _dataBase;
 
-    public UsuarioReportory(LiteDataBase dataBase)
+    public UsuarioRepository(LiteDB.LiteDatabase dataBase)
     {
         _dataBase = dataBase;
     }

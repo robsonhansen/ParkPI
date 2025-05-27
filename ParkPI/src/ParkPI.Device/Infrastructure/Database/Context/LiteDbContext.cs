@@ -1,3 +1,5 @@
+using LiteDB;
+
 public class LiteDbContext : IDisposable
 {
     public readonly LiteDatabase _database;
@@ -7,7 +9,7 @@ public class LiteDbContext : IDisposable
         var fullPath = Path.GetFullPath(databasePath);
         var directory = Path.GetDirectoryName(fullPath);
         if (!Directory.Exists(directory))
-            Directory.CreateDirectory(directory);
+            Directory.CreateDirectory(!string.IsNullOrEmpty(directory) ? directory : string.Empty);
 
         _database = new LiteDatabase(fullPath);
     }

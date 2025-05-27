@@ -1,5 +1,5 @@
 public interface IUsuarioRepository
 {
-    Usuario ObterPorUsuario(string username);
+    public Usuario ObterUsuario(string username);
     void Salvar(Usuario usuario);
 }
