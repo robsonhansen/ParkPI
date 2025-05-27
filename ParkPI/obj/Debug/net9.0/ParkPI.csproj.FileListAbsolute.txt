@@ -1,0 +1,14 @@
+/Users/cpk/parkpi/ParkPI/ParkPI/bin/Debug/net9.0/ParkPI
+/Users/cpk/parkpi/ParkPI/ParkPI/bin/Debug/net9.0/ParkPI.deps.json
+/Users/cpk/parkpi/ParkPI/ParkPI/bin/Debug/net9.0/ParkPI.runtimeconfig.json
+/Users/cpk/parkpi/ParkPI/ParkPI/bin/Debug/net9.0/ParkPI.dll
+/Users/cpk/parkpi/ParkPI/ParkPI/bin/Debug/net9.0/ParkPI.pdb
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.AssemblyInfoInputs.cache
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.AssemblyInfo.cs
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.csproj.CoreCompileInputs.cache
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.dll
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/refint/ParkPI.dll
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.pdb
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ParkPI.genruntimeconfig.cache
+/Users/cpk/parkpi/ParkPI/ParkPI/obj/Debug/net9.0/ref/ParkPI.dll

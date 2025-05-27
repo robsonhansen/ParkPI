@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkPI", "ParkPI\ParkPI.csproj", "{99D2A5CB-BCDB-4C13-8C62-E99FE18F030C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D2A5CB-BCDB-4C13-8C62-E99FE18F030C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D2A5CB-BCDB-4C13-8C62-E99FE18F030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D2A5CB-BCDB-4C13-8C62-E99FE18F030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D2A5CB-BCDB-4C13-8C62-E99FE18F030C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
