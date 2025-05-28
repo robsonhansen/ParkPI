@@ -66,3 +66,14 @@
 /Users/cpk/parkpi/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.pdb
 /Users/cpk/parkpi/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.genruntimeconfig.cache
 /Users/cpk/parkpi/ParkPI.GUI/obj/Debug/net9.0/ref/ParkPI.GUI.dll
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.csproj.AssemblyReference.cache
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/Avalonia/resources
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.AssemblyInfoInputs.cache
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.AssemblyInfo.cs
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.csproj.CoreCompileInputs.cache
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.sourcelink.json
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.dll
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/refint/ParkPI.GUI.dll
+/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/Debug/net9.0/ParkPI.GUI.pdb

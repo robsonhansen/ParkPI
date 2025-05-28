@@ -1460,11 +1460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cpk/parkpi/ParkPI.GUI/ParkPI.GUI.csproj",
+      "projectUniqueName": "/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/ParkPI.GUI.csproj",
       "projectName": "ParkPI.GUI",
-      "projectPath": "/Users/cpk/parkpi/ParkPI.GUI/ParkPI.GUI.csproj",
+      "projectPath": "/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/ParkPI.GUI.csproj",
       "packagesPath": "/Users/cpk/.nuget/packages/",
-      "outputPath": "/Users/cpk/parkpi/ParkPI.GUI/obj/",
+      "outputPath": "/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cpk/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qO1LNpelkk=",
+  "dgSpecHash": "sWMyem2InMc=",
   "success": true,
-  "projectFilePath": "/Users/cpk/parkpi/ParkPI.GUI/ParkPI.GUI.csproj",
+  "projectFilePath": "/Users/cpk/parkpi/ParkPI/src/ParkPI.GUI/ParkPI.GUI.csproj",
   "expectedPackageFiles": [
     "/Users/cpk/.nuget/packages/avalonia/11.3.0/avalonia.11.3.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
