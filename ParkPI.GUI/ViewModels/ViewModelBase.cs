@@ -1,7 +1,8 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+﻿using ReactiveUI;
 
-namespace ParkPI.GUI.ViewModels;
-
-public class ViewModelBase : ObservableObject
+namespace ParkPI.GUI.ViewModels
 {
+    public class ViewModelBase : ReactiveObject
+    {
+    }
 }
