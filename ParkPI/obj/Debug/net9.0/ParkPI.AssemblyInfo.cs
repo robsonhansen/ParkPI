@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParkPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4f31fa75e189e51930963cef80a394bf2dba09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38d33cb6ceac2aa79bcca29a5a6202044098e61c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParkPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParkPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
