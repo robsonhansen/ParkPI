@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>false</UseWPF> <!-- Usar true se for WPF -->
+    <UseWindowsForms>false</UseWindowsForms> <!-- true se for WinForms -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Supondo AvaloniaUI como GUI multiplataforma -->
+    <PackageReference Include="Avalonia" Version="11.0.0" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.0.0" />
+    <PackageReference Include="Avalonia.ReactiveUI" Version="11.0.0" />
+  </ItemGroup>
+
+</Project>
