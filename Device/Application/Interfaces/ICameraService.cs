@@ -1,3 +1,6 @@
+using ParkPI.Device.Application.UseCases;
+
+
 public interface ICameraService
 {
     string CapturarPlaca();

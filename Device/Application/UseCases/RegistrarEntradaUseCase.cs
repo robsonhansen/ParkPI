@@ -1,5 +1,8 @@
 using System.Data;
 
+namespace ParkPI.Device.Application.UseCases;
+
+
 public class RegistrarEntradaUseCase
 {
     private readonly ICameraService _cameraService;

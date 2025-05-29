@@ -1,3 +1,5 @@
+using ParkPI.Device.Application.UseCases;
+
 public interface IHardwareManager
 {
     void AbrirCancelaEntrada();

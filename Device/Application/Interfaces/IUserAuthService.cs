@@ -1,3 +1,5 @@
+using ParkPI.Device.Application.UseCases;
+
 public interface IUserAuthService
 {
     bool Autenticar(string email, string senha);

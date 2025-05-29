@@ -1,0 +1,8 @@
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.csproj.AssemblyReference.cache
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/Avalonia/resources
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.AssemblyInfoInputs.cache
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.AssemblyInfo.cs
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.csproj.CoreCompileInputs.cache
+/Users/cpk/parkpi/ParkPI/GUI/obj/Debug/net9.0/GUI.sourcelink.json

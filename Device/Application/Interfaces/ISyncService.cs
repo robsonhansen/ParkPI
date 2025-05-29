@@ -1,3 +1,5 @@
+using ParkPI.Device.Application.UseCases;
+
 public interface ISyncService
 {
     Task<bool> SincronizarRegistroAsync(); //envia dados offline para o servidor ou nuvem

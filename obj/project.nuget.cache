@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIbUg5fyD54=",
-  "success": false,
-  "projectFilePath": "/Users/cpk/parkpi/ParkPI/GUI/GUI.csproj",
+  "dgSpecHash": "8YIJii0UM7s=",
+  "success": true,
+  "projectFilePath": "/Users/cpk/parkpi/ParkPI/ParkPI.csproj",
   "expectedPackageFiles": [
     "/Users/cpk/.nuget/packages/avalonia/11.0.0/avalonia.11.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2023020321/avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
@@ -13,7 +13,6 @@
     "/Users/cpk/.nuget/packages/avalonia.reactiveui/11.0.0/avalonia.reactiveui.11.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.remote.protocol/11.0.0/avalonia.remote.protocol.11.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.skia/11.0.0/avalonia.skia.11.0.0.nupkg.sha512",
-    "/Users/cpk/.nuget/packages/avalonia.themes.fluent/11.3.0/avalonia.themes.fluent.11.3.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.win32/11.0.0/avalonia.win32.11.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/avalonia.x11/11.0.0/avalonia.x11.11.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/dynamicdata/7.9.5/dynamicdata.7.9.5.nupkg.sha512",
@@ -22,7 +21,25 @@
     "/Users/cpk/.nuget/packages/harfbuzzsharp.nativeassets.macos/2.8.2.3/harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
     "/Users/cpk/.nuget/packages/harfbuzzsharp.nativeassets.webassembly/2.8.2.3/harfbuzzsharp.nativeassets.webassembly.2.8.2.3.nupkg.sha512",
     "/Users/cpk/.nuget/packages/harfbuzzsharp.nativeassets.win32/2.8.2.3/harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/litedb/5.0.21/litedb.5.0.21.nupkg.sha512",
     "/Users/cpk/.nuget/packages/microcom.runtime/0.11.0/microcom.runtime.0.11.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.logging.configuration/7.0.0/microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.logging.console/7.0.0/microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/reactiveui/18.3.1/reactiveui.18.3.1.nupkg.sha512",
     "/Users/cpk/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
@@ -31,22 +48,15 @@
     "/Users/cpk/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.3/skiasharp.nativeassets.webassembly.2.88.3.nupkg.sha512",
     "/Users/cpk/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
     "/Users/cpk/.nuget/packages/splat/14.4.1/splat.14.4.1.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/cpk/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/system.io.pipelines/6.0.0/system.io.pipelines.6.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/cpk/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/Users/cpk/.nuget/packages/tmds.dbus.protocol/0.15.0/tmds.dbus.protocol.0.15.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Aviso como Erro: Downgrade de pacote detectado: Avalonia de 11.3.0 para 11.0.0. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \n GUI -> Avalonia.Themes.Fluent 11.3.0 -> Avalonia (>= 11.3.0) \n GUI -> Avalonia (>= 11.0.0)",
-      "libraryId": "Avalonia",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
